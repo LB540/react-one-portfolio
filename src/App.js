@@ -8,6 +8,7 @@ import Contact from './components/Contact';
 
 
 function App() {
+  // document.documentElement.style.setProperty("--vh", window.innerHeight * 0.01 + 'px');
   return (
     <div>
       <Navbar />
